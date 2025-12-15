@@ -1,0 +1,8 @@
+sent,20
+recv,20
+loss_pct,0.0
+avg_latency_ms,13.797581195831299
+min_latency_ms,7.616996765136719
+max_latency_ms,32.248497009277344
+jitter_ms,6.779186951703476
+throughput_kbps,635.0683566464586
